@@ -1,0 +1,3 @@
+f = open('ppp.txt')
+ttt = nltk.word_tokenize(f)
+len(ttt)

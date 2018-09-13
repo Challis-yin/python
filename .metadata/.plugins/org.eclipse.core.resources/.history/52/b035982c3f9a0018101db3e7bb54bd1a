@@ -1,0 +1,5 @@
+from helloworld import kkk
+CAR = car("benchi", 13)
+CAR.show()
+CAR.add(35)
+CAR.show()

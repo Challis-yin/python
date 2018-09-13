@@ -1,0 +1,3 @@
+from nltk import *
+corpus_root = u'F:' 
+wordlists = PlaintextCorpusReader(corpus_root, 'ppp.txt') 

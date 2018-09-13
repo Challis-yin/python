@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 0" tests="0" total_time="Finished in: 0.00 secs."/>
+<test location="F:/python&amp;#39033;&amp;#30446;/helloworld&amp;#26159;/src/src/kkkkk.py" status="error" test="src.kkkkk" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Users\Administrator\.p2\pool\plugins\org.python.pydev.core_6.4.4.201807281807\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "F:\python&#39033;&#30446;\helloworld&#26159;\src\src\kkkkk.py", line 5
+    '''
+     ^
+SyntaxError: (unicode error) 'utf-8' codec can't decode byte 0xc4 in position 16: invalid continuation byte
+ERROR: Module: src.kkkkk could not be imported (file: F:/python&#39033;&#30446;/helloworld&#26159;/src/src/kkkkk.py).
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="helloworld是 src"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

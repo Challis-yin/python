@@ -1,0 +1,2 @@
+from nltk import *
+f = open('ppp.txt')

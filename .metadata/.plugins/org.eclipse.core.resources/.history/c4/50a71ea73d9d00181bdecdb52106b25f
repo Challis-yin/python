@@ -1,0 +1,5 @@
+def gender_features(word):
+    return{'last_letter':word[-1]}
+"print(gender_features('smith'))"
+from nltk.corpus import names
+import random

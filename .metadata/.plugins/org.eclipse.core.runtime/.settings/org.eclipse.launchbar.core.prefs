@@ -1,0 +1,12 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F __main__.py,org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F src,org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F helloworld.py (1),org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F helloworld.py,org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F kkkk.py,org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F shiyan.py,org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F \u7B2C\u516D\u7AE0.py,org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F __init__.py,org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F spider_main.py,org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F html_outputer.py,org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F \u722C\u866B\u7EC3\u4E60.py,org.eclipse.launchbar.core.descriptorType.default\:New_configuration,org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F frame.py,org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F kkk.py
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:New_configuration/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:New_configuration/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F\ frame.py/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F\ frame.py/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F\ helloworld.py\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F\ helloworld.py\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F\ src/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:helloworld\u662F\ src/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
